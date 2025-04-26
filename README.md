@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - 🔭 I’m currently working on Data Anlytics and Data Science.
+- 🔭 I’m currently working on Data Science,GEN AI and Agentic Frameworks.
 - 🌱 I’m currently learning Data Structure & Algorithms.
-- 👯 I’m looking to collaborate on Power BI dashboarding.
+- 👯 I’m looking to collaborate on AI powered Applications.
 - 📫 How to reach me: [sarbomitra@gmail.com] [https://www.linkedin.com/in/sarbo-mitra-50338a212/]
 
 ![Sarbo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eragornmitra&show_icons=true&theme=radical)
@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 ![Intel](https://img.shields.io/badge/Intel-Core_i3_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ## ✒️ Languages
+![Python](https://img.shields.io/badge/python-%23FD8600.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📚 Platforms, Frameworks, Softwares & Environments
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-217346?style=for-the-badge&logo=semantic_kernel&logoColor=white)
+![Langgraph](https://img.shields.io/badge/Langgraph-%236DB33F.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-%2300f.svg?style=for-the-badge&logo=chainlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-F2C811?style=for-the-badge&logo=streamlit&logoColor=black)
